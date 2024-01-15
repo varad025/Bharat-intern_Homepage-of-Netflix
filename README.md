@@ -1,5 +1,4 @@
 # Bharat-intern_Homepage-of-Netflix
-# Netflix Homepage Recreation
 
 Netflix Homepage
 
